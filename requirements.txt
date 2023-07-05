@@ -9,4 +9,3 @@ tensorflow
 lxml 
 pytesseract
 Pillow
-tensoflow
